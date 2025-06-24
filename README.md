@@ -30,7 +30,7 @@ venv\Scripts\activate   # On Windows
 
 ---
 
-##🔐 Setup API Key
+## 🔐 Setup API Key
 To use the Gemini API, you’ll need a Google API key:
 1. Go to Google AI Studio and generate your API key.
 2. Create a file named .env in the project root:
@@ -44,7 +44,7 @@ Make sure your virtual environment is activated and run:
 Then open your browser and go to: [http://localhost:8501](http://localhost:8501)
 
 ---
-##📁 Project Structure
+## 📁 Project Structure
 
 ```text
 ATS-System/
@@ -55,7 +55,7 @@ ATS-System/
 ```
 ---
 
-##🖼️ Example Output
+## 🖼️ Example Output
 Input: Resume PDF + Job Description
 Percentage Match: 78%
 ✔️ Good alignment with Data Science fundamentals
@@ -66,7 +66,8 @@ Suggestions:
 - Highlight achievements using data visualization or dashboards
 
 ---
-##👨‍💻 Author
+## 👨‍💻 Author
 Made with ❤️ by Syed Mustafa
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.linkedin.com/in/syedmustafa29/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/](https://www.linkedin.com/in/syedmustafa29/))
