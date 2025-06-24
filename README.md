@@ -38,10 +38,10 @@ To use the Gemini API, you’ll need a Google API key:
 
 ---
 
-▶️ Run the App
+## ▶️ Run the App
+
 Make sure your virtual environment is activated and run:
-      streamlit run app.py
-Then open your browser and go to: http://localhost:8501
+Then open your browser and go to: [http://localhost:8501](http://localhost:8501)
 
 ---
 📁 Project Structure
