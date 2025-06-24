@@ -46,12 +46,13 @@ Then open your browser and go to: http://localhost:8501
 ---
 📁 Project Structure
 
+```text
 ATS-System/
 ├── app.py             # Main Streamlit application
 ├── requirements.txt   # Python dependencies
 ├── .env               # API key (excluded from GitHub)
 └── README.md          # Project documentation
-
+```
 ---
 
 🖼️ Example Output
