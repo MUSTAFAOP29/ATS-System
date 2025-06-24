@@ -28,28 +28,31 @@ venv\Scripts\activate   # On Windows
 3. Install dependencies
    pip install -r requirements.txt
 
+---
+
 🔐 Setup API Key
 To use the Gemini API, you’ll need a Google API key:
 1. Go to Google AI Studio and generate your API key.
 2. Create a file named .env in the project root:
    GOOGLE_API_KEY=your_api_key_here
 
+---
 
 ▶️ Run the App
 Make sure your virtual environment is activated and run:
       streamlit run app.py
 Then open your browser and go to: http://localhost:8501
 
-
+---
 📁 Project Structure
 
 ATS-System/
-│
-├── app.py               # Main Streamlit application
-├── requirements.txt     # List of dependencies
-├── .env                 # Contains your Gemini API key (DO NOT SHARE)
-└── README.md            # Project documentation
+├── app.py             # Main Streamlit application
+├── requirements.txt   # Python dependencies
+├── .env               # API key (excluded from GitHub)
+└── README.md          # Project documentation
 
+---
 
 🖼️ Example Output
 Input: Resume PDF + Job Description
@@ -61,6 +64,6 @@ Suggestions:
 - Add projects involving model deployment (e.g., using Docker, CI/CD)
 - Highlight achievements using data visualization or dashboards
 
-
+---
 👨‍💻 Author
 Made with ❤️ by Syed Mustafa
