@@ -30,15 +30,14 @@ venv\Scripts\activate   # On Windows
 
 🔐 Setup API Key
 To use the Gemini API, you’ll need a Google API key:
-Go to Google AI Studio and generate your API key.
-Create a file named .env in the project root:
-GOOGLE_API_KEY=your_api_key_here
+1. Go to Google AI Studio and generate your API key.
+2. Create a file named .env in the project root:
+   GOOGLE_API_KEY=your_api_key_here
 
 
 ▶️ Run the App
 Make sure your virtual environment is activated and run:
-
-streamlit run app.py
+      streamlit run app.py
 Then open your browser and go to: http://localhost:8501
 
 
